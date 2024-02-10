@@ -1,3 +1,3 @@
 # FreeCodeCamp: Front End Development Libraries Projects
 
-# https://frontend.netlify.app/
+# https://front-end-development.netlify.app/
